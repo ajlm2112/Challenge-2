@@ -7,7 +7,7 @@ AS AN employer <br>
 I WANT to view a potential employee's deployed portfolio of work samples<br>
 SO THAT I can review samples of their work and assess whether they're a good candidate for an open position<br>
 
-#Acceptance Criteria
+# Acceptance Criteria
 Here are the critical requirements necessary to develop a portfolio that satisfies a typical hiring manager's needs:
 
 GIVEN I need to sample a potential employee's previous work<br>
@@ -23,3 +23,7 @@ WHEN I click on the images of the applications<br>
 THEN I am taken to that deployed application<br>
 WHEN I resize the page or view the site on various screens and devices<br>
 THEN I am presented with a responsive layout that adapts to my viewport<br>
+
+# Notes
+Rough draft<br>
+will update styling and links to seprate page for different projects<br>
