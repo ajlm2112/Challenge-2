@@ -1,0 +1,18 @@
+body {background-color: blanchedalmond;}
+
+.projects-flex-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+.project-flex-item {
+    border: 2.5px solid black;
+  }
+  
+.project-flex-item:first-child {
+    width: 50%;
+  } 
+  
+.project-flex-item:first-child img {
+    width: 500px;
+  }
